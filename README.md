@@ -1,2 +1,2 @@
-Data Science student | Python • ML • Data Analysis
+## Data Science student | Python • ML • Data Analysis
 
