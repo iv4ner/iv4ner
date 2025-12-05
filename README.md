@@ -18,8 +18,7 @@ Aquí algunos de mis trabajos más relevantes (ver repositorios “Pinned”):
 - **ATLAS_3i_SimulationProject** — Simulaciones estocásticas y modelos de Monte Carlo.  
 
 ## 📫 Contacto  
-- 📧 Email: [tu-email@example.com]
-- 🔗 LinkedIn: [tu-LinkedIn]  
+- 📧 Email: [er.moralespest@gmail.com]
 - ✨ Siempre abierto a colaborar en proyectos de ciencia de datos o ML.
 
 > “Turning data into insight, one notebook at a time.”  
