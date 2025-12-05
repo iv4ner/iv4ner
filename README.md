@@ -1,26 +1,48 @@
-# Hola 👋, soy Ernest Morales — “Ernest420”
+# 👋 Hola, soy Ernest
 
-## 🎯 Sobre mí  
-Soy estudiante de Ciencia de Datos en UCASAL — me encanta analizar datos, aplicar técnicas de machine learning, y crear visualizaciones que cuentan historias. Siempre aprendiendo y trabajando en proyectos reales.
+### Student of Data Science | Python • SQL • ML
 
-## 🛠️ Tech Stack  
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib / Seaborn)  
-- Jupyter Notebooks & análisis exploratorio  
-- SQL / bases de datos  
-- Visualización de datos & reporting  
-- (Podés agregar otras herramientas que uses, por ej. Git, GitHub, etc.)
+Diseñando pipelines, probando modelos y formándome para ser un Científico de Datos orientado a **insights accionables**.
 
-## 🚀 Proyectos Destacados  
-Aquí algunos de mis trabajos más relevantes (ver repositorios “Pinned”):  
-- **CloudScape-Global** — Mapa de infraestructura en la nube con datos de AWS / GCP / Azure.  
-- **Data-Analysis-Practices** — Proyectos universitarios de análisis con datos reales.  
-- **Estudio-y-Análisis-de-Mascotas** — Análisis de datos sobre bienestar y longevidad de mascotas.  
-- **ATLAS_3i_SimulationProject** — Simulaciones estocásticas y modelos de Monte Carlo.  
+---
 
-## 📫 Contacto  
-- 📧 Email: [er.moralespest@gmail.com]
-- ✨ Siempre abierto a colaborar en proyectos de ciencia de datos o ML.
+## 🚀 Sobre mí
 
-> “Turning data into insight, one notebook at a time.”  
+* Estudiante de Ciencia de Datos (UCASAL)
+* Apasionado por Machine Learning, análisis exploratorio y visualización
+* Disfruto convertir problemas en modelos y datos en decisiones
+* Siempre trabajando en proyectos para fortalecer mi portafolio
 
+---
+
+## 🛠️ Tech Stack
+
+**Lenguajes y análisis**
+
+* Python (Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn)
+* SQL
+* Jupyter Notebooks
+
+**Herramientas**
+
+* Git & GitHub
+
+---
+
+## 📌 Proyectos Destacados
+
+* **CloudScape-Global** — Mapa de infraestructura cloud (AWS, Azure, GCP)
+* **Data-Analysis-Practices** — Conjunto de análisis y notebooks exploratorios
+* **Estudio y Análisis de Mascotas** — Análisis estadístico y exploratorio
+* **ATLAS_3i_SimulationProject** — Modelos y simulaciones estocásticas
+
+---
+
+## 📫 Contacto
+
+* Email: er.moralespest@gmail.com
+
+---
+
+> “Turning data into insight, one notebook at a time.”
 
