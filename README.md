@@ -1,4 +1,4 @@
-# 🔬 Científco de Datos | Ernest
+# 🔬 Científico de Datos | Ernest
 
 
 ### 🧭 Transición Metódica al Análisis Cuantitativo
