@@ -1,5 +1,5 @@
 <div align="center">
-Data Scientist in progress — coding, modeling, learning.
+Hi, I'm Data Scientist in progress — coding, modeling, learning.
 Interested in pushing the boundaries.
 </div>
 <p align="center">
