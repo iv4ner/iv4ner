@@ -1,5 +1,5 @@
 <div align="center">
-Hi, I'm Data Scientist in progress — tap tap tap* coding, modeling, learning.
+Hi, I'm Data Scientist in progress — taptaptap* coding, modeling, learning.
 Interested in pushing the boundaries.
 </div>
 <p align="center">
