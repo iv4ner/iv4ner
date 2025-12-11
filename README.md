@@ -2,6 +2,6 @@
 Hi, I'm Data Scientist in progress — coding, modeling, learning.
 </div>
 <p align="center">
-  <img src="assets/PinDown.io_tambovchurch_transparent-ezgif.com-gif-maker.gif" width="110"/>
+  <img src="assets/PinDown.io_tambovchurch_transparent-ezgif.com-gif-maker.gif" width="95"/>
 </p>
 
